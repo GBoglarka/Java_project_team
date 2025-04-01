@@ -1,0 +1,4 @@
+CreateRoom room1 10
+CreateObject tvsz TVSZ false room1
+CreateCharacter instructor Instructor room1
+Pickup tvsz instructor

@@ -1,0 +1,21 @@
+CreateRoom room1 5 poison
+CreateRoom room2 5 wicked
+CreateRoom room3 5 sticky
+CreateRoom room4 5
+SetRoomNeighbours room1 room2 room3 room4
+SetRoomNeighbours room2 room1 room3 room4
+SetRoomNeighbours room3 room1 room2 room4
+SetRoomNeighbours room4 room1 room2 room3
+CreateObject beer1 Beer false room1
+CreateObject rag1 Rag false room1
+CreateObject tvsz1 TVSZ false room1
+CreateObject camamber1 Camamber false room2
+CreateObject ffp1 FFP2 false room2
+CreateObject logarlec Logarlec false room3
+CreateObject transistor Transistor false room3
+CreateObject airfreshener1 AirFreshener false room4
+CreateCharacter student1 Student room4
+CreateCharacter student2 Student room4
+CreateCharacter instructor1 Instructor room3
+CreateCharacter instructor2 Instructor room3
+CreateCharacter cleaner Cleaner room2

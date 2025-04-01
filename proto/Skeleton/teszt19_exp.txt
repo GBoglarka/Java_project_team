@@ -1,0 +1,12 @@
+room1@room1 Node created
+room2@room2 Node created
+room3@room3 Node created
+room1@room1 neighbours has been set
+room2@room2 neighbours has been set
+room3@room3 neighbours has been set
+transistor1@transistor1 Transistor created
+student@student Student created in room1 with transistor1
+student@student used transistor1 object
+student@student moved from room1 to room2
+student@student moved from room2 to room3
+student@student used transistor1 object

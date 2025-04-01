@@ -1,0 +1,4 @@
+room1@room1 Node created
+cam@cam Camamber created
+student@student Student created in room1 with cam
+student@student used cam object, room1 is now poisoned

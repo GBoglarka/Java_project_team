@@ -1,0 +1,8 @@
+room1@room1 Node created
+room2@room2 Node created
+room3@room3 Node created
+room1@room1 neighbours has been set
+room2@room2 neighbours has been set
+room3@room3 neighbours has been set
+room1@room1 - room2 door disappeared
+room1@room1 - room2 door appeared

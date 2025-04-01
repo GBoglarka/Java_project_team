@@ -1,0 +1,4 @@
+room1@room1 Node created
+tvsz@tvsz TVSZ created in room1
+student@student Student created in room1 with no Objects
+student@student picked up tvsz object

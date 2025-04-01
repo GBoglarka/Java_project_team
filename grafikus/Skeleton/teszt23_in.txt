@@ -1,0 +1,4 @@
+CreateRoom room1 10
+CreateObject logar Logarlec false
+CreateCharacter student Student room1 logar
+UseItem logar student

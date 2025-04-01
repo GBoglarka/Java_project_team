@@ -1,0 +1,9 @@
+CreateRoom room1 10
+CreateRoom room2 10
+SetRoomNeighbours room1 room2
+SetRoomNeighbours room2 room1
+CreateObject beer Beer false
+CreateCharacter student Student room1 beer
+CreateCharacter instructor Instructor room2
+Move room2 student
+UseItem beer student

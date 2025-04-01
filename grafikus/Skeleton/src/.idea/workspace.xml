@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="878ecdee-8d8c-4236-95d9-bf8ea36e1a92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AirFreshener.java" beforeDir="false" afterPath="$PROJECT_DIR$/AirFreshener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Beer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Camamber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Camamber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cleaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FFP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/FFP2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logarlec.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logarlec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoisonRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/PoisonRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StandardCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/StandardCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StickyRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/StickyRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TVSZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/TVSZ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transistor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Transistor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WickedRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/WickedRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt10_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt10_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt11_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt11_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt12_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt12_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt13_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt13_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt14_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt14_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt20_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt20_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt21_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt21_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt22_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt22_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt23_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt23_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt24_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt24_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt25_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt25_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt26_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt26_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt27_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt27_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt28_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt28_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt2_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt2_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt3_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt3_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt4_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt4_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt5_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt5_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt6_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt6_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt7_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt7_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt8_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt8_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teszt9_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../teszt9_out.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2fggoBNSAzoenFrsxWyVGzITLTN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Tomi/Projekt-labor/Skeleton/src"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="878ecdee-8d8c-4236-95d9-bf8ea36e1a92" name="Changes" comment="" />
+      <created>1714228308102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714228308102</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+CreateRoom room1 10
+CreateRoom room2 10
+CreateRoom room3 10
+SetRoomNeighbours room1 room2
+SetRoomNeighbours room2 room1 room3
+SetRoomNeighbours room3 room2
+CreateObject transistor1 Transistor false
+CreateCharacter student Student room1 transistor1 
+UseItem transistor1 student
+Move room2 student
+Move room3 student
+UseItem transistor1 student

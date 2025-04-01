@@ -1,0 +1,8 @@
+CreateRoom room1 5
+CreateRoom room2 5 poison
+SetRoomNeighbours room1 room2
+SetRoomNeighbours room2 room1
+CreateObject ffp2 FFP2 false
+CreateCharacter student Student room1 ffp2
+UseItem ffp2 student
+Move room2 student

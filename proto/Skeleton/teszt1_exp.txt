@@ -1,0 +1,21 @@
+room1@room1 Node created
+room2@room2 Node created
+room3@room3 Node created
+room4@room4 Node created
+room1@room1 neighbours has been set
+room2@room2 neighbours has been set
+room3@room3 neighbours has been set
+room4@room4 neighbours has been set
+beer1@beer1 Beer created in room1
+rag1@rag1 Rag created in room1
+tvsz1@tvsz1 TVSZ created in room1
+camamber1@camamber1 Camamber created in room2
+ffp1@ffp1 FFP2 created in room2
+logarlec@logarlec Logarlec created in room3
+transistor@transistor Transistor created in room3
+airfreshener1@airfreshener1 AirFreshener created in room4
+student1@student1 Student created in room4 with no Objects
+student2@student2 Student created in room4 with no Objects
+instructor1@instructor1 Instructor created in room3 with no Objects
+instructor2@instructor2 Instructor created in room3 with no Objects
+cleaner@cleaner Cleaner created in room2 with no Objects

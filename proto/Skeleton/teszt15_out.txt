@@ -1,0 +1,5 @@
+room1@room1 Node created
+room2@room2 Node created
+room1@room1 neighbours has been set
+room2@room2 neighbours has been set
+room1@room1 and room2 has been merged together into room1

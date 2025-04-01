@@ -1,0 +1,10 @@
+room1@room1 Node created
+room2@room2 Node created
+room1@room1 neighbours has been set
+room2@room2 neighbours has been set
+cleaner@cleaner Cleaner created in room1 with no Objects
+student1@student1 Student created in room2 with no Objects
+student2@student2 Student created in room2 with no Objects
+cleaner@cleaner moved from room1 to room2
+student1@student1 moved from room2 to room1
+student2@student2 moved from room2 to room1

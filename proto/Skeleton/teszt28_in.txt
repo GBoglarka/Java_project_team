@@ -1,0 +1,4 @@
+CreateRoom room1 10 poison
+CreateObject airfreshener AirFreshener false
+CreateCharacter student Student room1 airfreshener
+UseItem airfreshener student

@@ -1,0 +1,17 @@
+CreateRoom szoba 3 poison
+CreateRoom szoba2 4 poison
+CreateRoom szoba3 5
+SetRoomNeighbours szoba szoba2 szoba3
+SetRoomNeighbours szoba2 szoba
+SetRoomNeighbours szoba3 szoba
+CreateObject beer1 Beer false
+CreateObject rag1 Rag false
+CreateObject tvsz1 TVSZ false
+CreateObject camamber1 Camamber false
+CreateObject ffp1 FFP2 false szoba
+CreateObject logarlec Logarlec false szoba
+CreateObject transistor Transistor false szoba
+CreateCharacter student1 Student szoba logarlec
+CreateCharacter instructor1 Instructor szoba
+Move szoba2 student1
+Stat map

@@ -1,0 +1,6 @@
+CreateRoom room1 5
+CreateRoom room2 5 sticky
+SetRoomNeighbours room1 room2
+SetRoomNeighbours room2 room1
+CreateCharacter cleaner Cleaner room1
+Move room2 cleaner

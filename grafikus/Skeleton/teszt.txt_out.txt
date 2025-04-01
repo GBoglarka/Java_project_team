@@ -1,0 +1,42 @@
+szoba@szoba Node created
+szoba2@szoba2 Node created
+szoba3@szoba3 Node created
+szoba@szoba neighbours has been set
+szoba2@szoba2 neighbours has been set
+szoba3@szoba3 neighbours has been set
+beer1@beer1 Beer created
+rag1@rag1 Rag created
+tvsz1@tvsz1 TVSZ created
+camamber1@camamber1 Camamber created
+ffp1@ffp1 FFP2 created in szoba
+logarlec@logarlec Logarlec created in szoba
+transistor@transistor Transistor created in szoba
+student1@student1 Student created in szoba with logarlec
+instructor1@instructor1 Instructor created in szoba with no Objects
+student1@student1 moved from szoba to szoba2
+Rooms:
+szoba
+	Capacity: 3
+	Characters: instructor1
+	Objects: ffp1 logarlec transistor
+	Effects: poison
+	Neighbours: szoba2 szoba3
+szoba2
+	Capacity: 4
+	Characters: student1
+	Objects: logarlec
+	Effects: poison
+	Neighbours: szoba
+szoba3
+	Capacity: 5
+	Characters:
+	Objects:
+	Effects:
+	Neighbours: szoba
+Characters:
+student1
+	Room: szoba2
+	Inventory:
+instructor1
+	Room: szoba
+	Inventory:

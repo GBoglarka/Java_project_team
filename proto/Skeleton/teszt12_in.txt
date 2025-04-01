@@ -1,0 +1,10 @@
+CreateRoom room1 5
+CreateRoom room2 5
+SetRoomNeighbours room1 room2
+SetRoomNeighbours room2 room1
+CreateCharacter cleaner Cleaner room1
+CreateCharacter student1 Student room2
+CreateCharacter student2 Student room2
+Move room2 cleaner
+Move room1 student1
+Move room1 student2

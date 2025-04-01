@@ -1,0 +1,6 @@
+room1@room1 Node created
+room2@room2 Node created
+room1@room1 neighbours has been set
+room2@room2 neighbours has been set
+instructor@instructor Instructor created in room1 with no Objects
+instructor@instructor moved from room1 to room2

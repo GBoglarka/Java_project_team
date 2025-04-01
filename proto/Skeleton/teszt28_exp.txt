@@ -1,0 +1,4 @@
+room1@room1 Node created
+airfreshener@airfreshener AirFreshener created
+student@student Student created in room1 with airfreshener
+student@student used airfreshener object, room1 now is not poisoned

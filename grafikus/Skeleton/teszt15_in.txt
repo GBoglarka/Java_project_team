@@ -1,0 +1,5 @@
+CreateRoom room1 5
+CreateRoom room2 5
+SetRoomNeighbours room1 room2
+SetRoomNeighbours room2 room1
+MergeRoom room1 room2

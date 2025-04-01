@@ -1,0 +1,2 @@
+CreateRoom room1 10
+SortRoom room1

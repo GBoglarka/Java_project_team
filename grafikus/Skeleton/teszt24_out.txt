@@ -1,0 +1,4 @@
+room1@room1 Node created
+logar@logar fake Logarlec created
+student@student Student created in room1 with logar
+student@student used logar object

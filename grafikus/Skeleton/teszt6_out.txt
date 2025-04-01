@@ -1,0 +1,8 @@
+room1@room1 Node created
+room2@room2 Node created
+room1@room1 neighbours has been set
+room2@room2 neighbours has been set
+ffp2@ffp2 FFP2 created
+student@student Student created in room1 with ffp2
+student@student used ffp2 object, protected from the poison
+student@student moved from room1 to room2

@@ -1,0 +1,8 @@
+CreateRoom room1 10 wicked
+CreateRoom room2 10 wicked
+CreateRoom room3 10
+SetRoomNeighbours room1 room2 room3
+SetRoomNeighbours room2 room1
+SetRoomNeighbours room3 room1
+WickedRoom room1 room2
+WickedRoom room1 room2

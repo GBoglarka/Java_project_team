@@ -1,0 +1,20 @@
+szoba@szoba Node created
+szoba2@szoba2 Node created
+szoba@szoba neighbours has been set szoba2
+beer1@beer1 Beer created
+beer2@beer2 Beer created
+rag1@rag1 Rag created in szoba
+tvsz1@tvsz1 TVSZ created
+camamber1@camamber1 Camamber created in szoba2
+ffp1@ffp1 FFP2 created in szoba2
+logarlec@logarlec Logarlec created
+transistor@transistor Transistor created
+student1@student1 Student created in szoba with no Object
+student2@student2 Student created in szoba2 with beer1 beer2
+instructor1@instructor1 Instructor created in szoba with no Object
+instructor2@instructor2 Instructor created in szoba2 with tvsz1
+student1@student1 moved from szoba to szoba2
+student1@student1 picked up camamber1 object
+szoba2@szoba2 Sorted, new Node rooms
+rooms@rooms Node created
+szoba2@szoba2 and rooms has benn merged together into szoba2
